@@ -1,17 +1,17 @@
 # Microservice and docker
 
 
-# Register (node)
+# Register (nodeJs)
  - User register data
    - Name
    - Email
    - Password
- ## Will Use
+  *Will Use*
    - unique database (docker)
  
-# login
+# login (NodeJs)
   -receive 
     -Email
     -Password
-  ## return JWT
+  *return JWT*
 
