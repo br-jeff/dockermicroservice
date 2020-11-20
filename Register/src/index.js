@@ -7,4 +7,4 @@ const port = 3000
 app.use(express.json())
 app.use(routes)
 
-app.listen(port,()=> {console.log(`register its on port: ${port}`)})
+app.listen(port,()=> {console.log(`register it's on port: ${port}`)})
